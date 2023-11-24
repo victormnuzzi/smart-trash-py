@@ -1,0 +1,26 @@
+{
+    "lixeira1": {
+        "ID": "101",
+        "Localizacao": "Rua A, Numero 123",
+        "Coleta": "Concluida",
+        "Enchimento (%)": 11,
+        "Ultima coleta": "01-09-2023 10:30:00",
+        "Equipe responsavel": "Equipe A"
+    },
+    "lixeira2": {
+        "ID": "202",
+        "Localizacao": "Rua B, Numero 456",
+        "Coleta": "Concluida",
+        "Enchimento (%)": 12,
+        "Ultima coleta": "29-08-2023 15:45:00",
+        "Equipe responsavel": "Equipe H"
+    },
+    "lixeira3": {
+        "ID": "303",
+        "Localizacao": "Rua C, Numero 789",
+        "Coleta": "Concluida",
+        "Enchimento (%)": 10,
+        "Ultima coleta": "03-09-2023 09:15:00",
+        "Equipe responsavel": "Equipe A"
+    }
+}
