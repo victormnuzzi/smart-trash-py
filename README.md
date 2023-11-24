@@ -1,7 +1,7 @@
 
-# Aplicativo SmartTrash
+# Aplicativo Smart Trash 🌱♻️
 
-Este é um projeto Python que simula um aplicativo chamado SmartTrash, que gerencia lixeiras inteligentes. O aplicativo oferece funcionalidades como verificação de notificações, ajuda, envio de sugestões e monitoramento do status das lixeiras.
+Este é um projeto Python que simula um aplicativo chamado Smart Trash, que gerencia lixeiras inteligentes. O aplicativo oferece funcionalidades como verificação de notificações, ajuda, envio de sugestões e monitoramento do status das lixeiras.
 
 ## Funcionalidades Principais 🚀 
 - Menu interativo para notificações, ajuda, sugestões e verificação das lixeiras.
